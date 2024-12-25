@@ -117,4 +117,4 @@ WebRecon is accessible through a dedicated web platform. Users can log in to acc
 ## Contact
 
 For questions or inquiries, please contact:
-- **Karthik S Sathyan**: [LinkedIn Profile](https://www.linkedin.com/in/karthiksathyan)
+- **Karthik S Sathyan**: [LinkedIn Profile](https://www.linkedin.com/in/karthik-s-sathyan/)
